@@ -1,4 +1,4 @@
 # InformeInterno
 
 ## Current Version
-1.0.6
+1.0.4
